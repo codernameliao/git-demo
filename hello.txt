@@ -1,9 +1,15 @@
 Hello git!222222
 Hello git!333333
 Hello git!444444444
+<<<<<<< HEAD
 hello liao
 hello liao
 hello liao777777777777
+=======
+hello liao55555
+hello liao6666
+hello liao
+>>>>>>> hot-fix
 hello liao
 hello liao
 hello liao
